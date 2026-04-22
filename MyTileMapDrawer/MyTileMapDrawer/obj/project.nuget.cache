@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFejTjff9Hw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teilnehmer\\RiderProjects\\MyTileMapDrawer\\MyTileMapDrawer\\MyTileMapDrawer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teilnehmer\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
